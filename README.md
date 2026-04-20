@@ -27,6 +27,7 @@
 | **Клиент Kafka**    | `confluent-kafka-python`                 |
 | **Контейнеризация** | Docker + Docker Compose                  |
 | **Язык**            | Python                                   |
+| **Миграции**        | Alembic                                  |
 
 ---
 
